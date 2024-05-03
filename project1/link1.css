@@ -1,0 +1,24 @@
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 40px;
+    background-color: #e62929;
+    text-align: center;
+  }
+
+ul.first{
+display: block;
+padding: 10%;
+background-color: rgb(199, 167, 167);
+text-align: center;
+
+}
+
+  ul.second {
+    padding: 10%;
+    display: block;
+    background-color: aqua;
+}
